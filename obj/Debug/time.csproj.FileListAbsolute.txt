@@ -1,0 +1,17 @@
+C:\Users\linmm\Desktop\time\bin\Debug\time.exe.config
+C:\Users\linmm\Desktop\time\bin\Debug\time.exe
+C:\Users\linmm\Desktop\time\bin\Debug\time.pdb
+C:\Users\linmm\Desktop\time\obj\Debug\time.csproj.AssemblyReference.cache
+C:\Users\linmm\Desktop\time\obj\Debug\time.csproj.SuggestedBindingRedirects.cache
+C:\Users\linmm\Desktop\time\obj\Debug\MainWindow.g.cs
+C:\Users\linmm\Desktop\time\obj\Debug\App.g.cs
+C:\Users\linmm\Desktop\time\obj\Debug\time_MarkupCompile.cache
+C:\Users\linmm\Desktop\time\obj\Debug\time_MarkupCompile.lref
+C:\Users\linmm\Desktop\time\obj\Debug\MainWindow.baml
+C:\Users\linmm\Desktop\time\obj\Debug\time.g.resources
+C:\Users\linmm\Desktop\time\obj\Debug\time.Properties.Resources.resources
+C:\Users\linmm\Desktop\time\obj\Debug\time.csproj.GenerateResource.cache
+C:\Users\linmm\Desktop\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+C:\Users\linmm\Desktop\time\obj\Debug\time.exe
+C:\Users\linmm\Desktop\time\obj\Debug\time.pdb
+C:\Users\linmm\Desktop\time\obj\Debug\time_Content.g.cs
